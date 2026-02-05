@@ -4,8 +4,7 @@
 </head>
 <body>
 <h1> Hello Codingwale </h1>
-<h1>2.0.0 version live</h1>
-<h2>3.0.0 version live </h2>
+<font color="red">1.0.0 lived</font>
 
 </body>
 </html>
